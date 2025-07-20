@@ -19,8 +19,8 @@ Feel free to reach out if our interests align!
 
 ### 🤝 I’m looking for help with:
 - **First Contributions** (How to start with Open Source?)
-- **Core DSA Concepts** (Arrays, Linked Lists, Recursion)
-- **Web Dev Basics** (HTML/CSS/JS, React, Node.js)
+- **Core DSA Concepts** (Arrays, Linked Lists, Recursion,Searching,Sorting,Trees...)
+- **Web Dev Concepts** (HTML/CSS/JS, React, Node.js,Tailwind,JavaScript,next.js,Express.js....)
 - **Coding Best Practices** (Clean Code, Debugging)
 
 ### 💬 Ask me about:
